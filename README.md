@@ -15,6 +15,7 @@ udp2raw的docker封装版
     
 ### 注意事项
     以上命令已经配置好重启策略，只有在手动停止容器时才会停止，其他时候自动启动，容器内不支持-a参数
+[更多用法请看官方文档](https://github.com/wangyu-/udp2raw-tunnel/blob/master/doc/README.zh-cn.md)
     
 ## 容器操作
 
